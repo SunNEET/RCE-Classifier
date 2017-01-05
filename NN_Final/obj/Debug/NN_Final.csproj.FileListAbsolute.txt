@@ -1,0 +1,18 @@
+E:\Program Files\Projects\NN_Final\NN_Final\bin\Debug\NN_Final.exe
+E:\Program Files\Projects\NN_Final\NN_Final\bin\Debug\NN_Final.pdb
+E:\Program Files\Projects\NN_Final\NN_Final\obj\Debug\NN_Final.csprojResolveAssemblyReference.cache
+E:\Program Files\Projects\NN_Final\NN_Final\obj\Debug\NN_Final.NN_Final.resources
+E:\Program Files\Projects\NN_Final\NN_Final\obj\Debug\NN_Final.Properties.Resources.resources
+E:\Program Files\Projects\NN_Final\NN_Final\obj\Debug\NN_Final.csproj.GenerateResource.Cache
+E:\Program Files\Projects\NN_Final\NN_Final\obj\Debug\NN_Final.exe
+E:\Program Files\Projects\NN_Final\NN_Final\obj\Debug\NN_Final.pdb
+C:\Users\ASUS\Desktop\Files\104 01\03 類神經網路\final\NN_Final\NN_Final\obj\Debug\NN_Final.exe
+C:\Users\ASUS\Desktop\Files\104 01\03 類神經網路\final\NN_Final\NN_Final\obj\Debug\NN_Final.pdb
+C:\Users\ASUS\Desktop\Files\104 01\03 類神經網路\final\NN_Final\NN_Final\bin\Debug\NN_Final.exe
+C:\Users\ASUS\Desktop\Files\104 01\03 類神經網路\final\NN_Final\NN_Final\bin\Debug\NN_Final.pdb
+C:\Users\ASUS\Desktop\Files\104 01\03 類神經網路\final\NN_Final\NN_Final\obj\Debug\NN_Final.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Files\104 01\03 類神經網路\final\NN_Final\NN_Final\obj\Debug\NN_Final.NN_Final.resources
+C:\Users\ASUS\Desktop\Files\104 01\03 類神經網路\final\NN_Final\NN_Final\obj\Debug\NN_Final.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Files\104 01\03 類神經網路\final\NN_Final\NN_Final\obj\Debug\NN_Final.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\NN_Final_randCLR\NN_Final\NN_Final\obj\Debug\NN_Final.exe
+C:\Users\user\Downloads\NN_Final_randCLR\NN_Final\NN_Final\obj\Debug\NN_Final.pdb
