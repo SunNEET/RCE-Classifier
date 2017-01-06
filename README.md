@@ -1,9 +1,12 @@
 # RCE-Classifier
 
-[Restricted Coulomb Energy (RCE) Classifier](http://neuron.eng.wayne.edu/tarek/MITbook/chap6/6_3.html) 的視覺化實現
+用來示範在二維input vector下，RCE神經網路概念的C#專案
 
-- 模擬 input vector 只有二維( x1, x2 )的情況
-- 以二維座標點作為input
+想知道什麼是RCE以及二維限定的狀況可以參考這裡 : [Restricted Coulomb Energy (RCE) Classifier](http://neuron.eng.wayne.edu/tarek/MITbook/chap6/6_3.html) 
+
+# Example
+![aa](http://i.imgur.com/vAibT0a.png)
+- 二維座標點相當於input vector {x1, x2}
 - Wj1,Wj2 是 分類圈圈的圓心, lamda_j是半徑
 - 該圈圈內皆視為同一種分類, 若不合, 會自動調整半徑大小
 - 可以中途追加訓練資料
