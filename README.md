@@ -1,8 +1,7 @@
 # RCE-Classifier
+This project is used to demonstrate the concept of RCE neural network under two-dimensional input vector.
 
-用來示範在二維input vector下，RCE神經網路概念的C#專案
-
-想知道什麼是RCE以及二維限定的狀況可以參考這裡 : [Restricted Coulomb Energy (RCE) Classifier](http://neuron.eng.wayne.edu/tarek/MITbook/chap6/6_3.html) 
+Detailed explanation of RCE classifier can be found here: [Restricted Coulomb Energy (RCE) Classifier](http://neuron.eng.wayne.edu/tarek/MITbook/chap6/6_3.html)
 
 # Example
 ![aa](http://i.imgur.com/vAibT0a.png)
